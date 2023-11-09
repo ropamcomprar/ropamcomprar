@@ -1291,8 +1291,7 @@
         width: 100%;
         position: absolute;
         left: -150%;
-        #
-                    bottom: 0px;
+       bottom: 0px;
         height: 3px;
         background-color: var(--primaryColor);
         transition: all 0.3s; }
